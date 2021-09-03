@@ -1,0 +1,3 @@
+
+
+	nvjjvjvjkbkvjvjbkbvjvj		ptr =ptr->link;
